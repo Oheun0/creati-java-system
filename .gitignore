@@ -21,3 +21,11 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# temp / backup
+*.swp
+*.bak
